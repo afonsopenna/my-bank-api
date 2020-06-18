@@ -1,0 +1,19 @@
+{
+  "name": "my-bank-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afonsopenna/my-bank-api.git"
+  },
+  "author": "Thiago Penna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afonsopenna/my-bank-api/issues"
+  },
+  "homepage": "https://github.com/afonsopenna/my-bank-api#readme"
+}
