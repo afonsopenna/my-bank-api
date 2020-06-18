@@ -1,0 +1,13 @@
+{
+  "nextId": 9,
+  "accounts": [
+    { "id": 1, "name": "Thiago Penna", "balance": 200 },
+    { "id": 2, "name": "Thiago Penna", "balance": 300 },
+    { "id": 3, "name": "Thiago Penna", "balance": 400 },
+    { "id": 4, "name": "Thiago Penna", "balance": 400 },
+    { "id": 5, "name": "Michele Amaral", "balance": 450 },
+    { "id": 6, "name": "Maria Luiza", "balance": 50 },
+    { "id": 7, "name": "Isabela Amaral", "balance": 150 },
+    { "id": 8, "name": "Áurea Penna", "balance": 1950 }
+  ]
+}
